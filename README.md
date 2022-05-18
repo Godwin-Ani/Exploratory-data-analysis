@@ -1,3 +1,3 @@
 # Projects
 Hello🖐
-I love learning and growing so I created this repository for my bioinformatics and machine learning journey.
+I love growing and learning new things so I created this repository for my bioinformatics and machine learning journey.
