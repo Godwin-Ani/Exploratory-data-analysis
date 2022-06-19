@@ -1,3 +1,2 @@
-# Projects
-Hello🖐
-I love growing and learning new things so I created this repository for my computational biology and machine learning journey.
+Hello 🖐
+This is a repository for my exploratory data analysis.
